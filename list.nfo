@@ -1,0 +1,311 @@
+{"server": {
+    "ip": "151.197.0.38",
+    "name": "nsphil.bellatlantic.net",
+    "description": "Verizon Internet Services"
+    },
+ "server": {
+    "ip": "151.197.0.39",
+    "name": "home4.bellatlantic.net",
+    "description": "Verizon Internet Services"
+    },
+ "server": {
+    "ip": "151.202.0.84",
+    "name": "nyc1-qwest.bellatlantic.net",
+    "description": "Verizon Internet Services"
+    },
+ "server": {
+    "ip": "151.202.0.85",
+    "name": "nyc2-qwest.bellatlantic.net",
+    "description": "Verizon Internet Services"
+    },
+ "server": {
+    "ip": "151.203.0.84",
+    "name": "boston1-qwest.bellatlantic.net",
+    "description": "Verizon Internet Services"
+    },
+ "server": {
+    "ip": "151.203.0.85",
+    "name": "boston2-qwest.bellatlantic.net",
+    "description": "Verizon Internet Services"
+    },
+ "server": {
+    "ip": "199.45.32.37",
+    "name": "world1.bellatlantic.net",
+    "description": "Verizon Internet Services"
+    },
+ "server": {
+    "ip": "199.45.32.38",
+    "name": "nsdc.bellatlantic.net",
+    "description": "Verizon Internet Services"
+    },
+ "server": {
+    "ip": "199.45.32.40",
+    "name": "legacy-ns1.bellatlantic.net",
+    "description": "Verizon Internet Services"
+    },
+ "server": {
+    "ip": "199.45.32.43",
+    "name": "home1.bellatlantic.net",
+    "description": "Verizon Internet Services"
+    },
+ "server": {
+    "ip": "4.2.2.1",
+    "name": "vnsc-pri.sys.gtei.net",
+    "description": "Level 3 Communications"
+    },
+ "server": {
+    "ip": "4.2.2.2",
+    "name": "vnsc-bak.sys.gtei.net",
+    "description": "Level 3 Communications"
+    },
+ "server": { 
+    "ip": "4.2.2.3",
+    "name": "vnsc-lc.sys.gtei.net",
+    "description": "Level 3 Communications"
+    },
+ "server": { 
+    "ip": "4.2.2.4",
+    "name": "vnsc-pri-dsl.genuity.net",
+    "description": "Level 3 Communications"
+    },
+ "server": { 
+    "ip": "4.2.2.5",
+    "name": "vnsc-bak-dsl.genuity.net",
+    "description": "Level 3 Communications"
+    },
+ "server": {
+    "ip": "4.2.2.6",
+    "name": "vnsc-lc-dsl.genuity.net",
+    "description": "Level 3 Communications"
+    },
+ "server": { 
+    "ip": "64.81.45.2",
+    "name": "dns.lax1.speakeasy.net",
+    "description": "Speakeasy"
+    },
+ "server": {
+    "ip": "64.81.79.2",
+    "name": "dns.sfo1.speakeasy.net",
+    "description": "Speakeasy"
+    },
+ "server": { 
+    "ip": "64.81.111.2",
+    "name": "den.speakeasy.net",
+    "description": "Speakeasy"
+    },
+ "server": { 
+    "ip": "64.81.127.2",
+    "name": "dns.dfw1.speakeasy.net",
+    "description": "Speakeasy"
+    },
+ "server": { 
+    "ip": "64.81.159.2",
+    "name": "dns.chi1.speakeasy.net",
+    "description": "Speakeasy"
+    },
+ "server": {
+    "ip": "64.102.255.44",
+    "name": "ns2.cisco.com",
+    "description": "Cisco Systems"
+    },
+ "server": {
+    "ip": "66.92.64.2",
+    "name": "bos.speakeasy.net",
+    "description": "Speakeasy"
+    },
+ "server": {
+    "ip": "66.92.159.2",
+    "name": "dns.wdc1.speakeasy.net",
+    "description": "Speakeasy"
+    },
+ "server": {
+    "ip": "66.92.224.2",
+    "name": "phl.speakeasy.net",
+    "description": "Speakeasy"
+    },
+ "server": {
+    "ip": "66.93.87.2",
+    "name": "dns.sea1.speakeasy.net",
+    "description": "Speakeasy"
+    },
+ "server": {
+    "ip": "66.207.199.44",
+    "name": "66-207-199-44.beanfield.net",
+    "description": "Easy DNS"
+    },
+ "server": {
+    "ip": "67.19.0.10",
+    "name": "ns1.dllstx4.cache.theplanet.com",
+    "description": "THEPLANET.COM INTERNET SERVICES"
+    },
+ "server": {
+    "ip": "67.19.1.10",
+    "name": "ns2.dllstx4.cache.theplanet.com",
+    "description": "THEPLANET.COM INTERNET SERVICES"
+    },
+ "server": {
+    "ip": "69.56.222.10",
+    "name": "ns4.dllstx2.cache.theplanet.com",
+    "description": "The Planet"
+    },
+ "server": {
+    "ip": "71.243.0.12",
+    "name": "nsbost01.verizon.net",
+    "description": "Verizon Internet Services (FiOS)"
+    },
+ "server": {
+    "ip": "71.243.0.14",
+    "name": "FWDR-14.FWDR-0.FWDR-243.FWDR-71",
+    "description": "Verizon Internet Services (FiOS)"
+    },
+ "server": {
+    "ip": "71.250.0.12",
+    "name": "nsnwrk01.verizon.net",
+    "description": "Verizon Internet Services (FiOS)"
+    },
+ "server": {
+    "ip": "71.250.0.14",
+    "name": "FWDR-14.FWDR-0.FWDR-250.FWDR-71",
+    "description": "Verizon Internet Services (FiOS)"
+    },
+ "server": {
+    "ip": "129.250.35.250",
+    "name": "x.ns.gin.ntt.net",
+    "description": "NTT America Technical Operations"
+    },
+ "server": {
+    "ip": "129.250.35.251",
+    "name": "y.ns.gin.ntt.net",
+    "description": "NTT America Technical Operations"
+    },
+ "server": {
+    "ip": "156.154.70.1",
+    "name": "rdns1.ultradns.net",
+    "description": "NeuStar"
+    },
+ "server": {
+    "ip": "156.154.71.1",
+    "name": "rdns2.ultradns.net",
+    "description": "NEUSTAR"
+    },
+ "server": {
+    "ip": "199.2.252.10",
+    "name": "ns2.sprintlink.net",
+    "description": "SprintLink"
+    },
+ "server": {
+    "ip": "203.55.230.104",
+    "name": "per-qv1-dnsradius5.iinet.net.au",
+    "description": "iiNet Limited"
+    },
+ "server": {
+    "ip": "203.55.230.105",
+    "name": "per-qv1-dnsradius6.iinet.net.au",
+    "description": "iiNet Limited"
+    },
+ "server": {
+    "ip": "203.215.3.43",
+    "name": "syd-stl-cns1.iinet.net.au",
+    "description": "iiNet Limited"
+    },
+ "server": {
+    "ip": "204.97.212.10",
+    "name": "ns3.sprintlink.net",
+    "description": "Sprint"
+    },
+ "server": {
+    "ip": "204.117.214.10",
+    "name": "ns1.sprintlink.net",
+    "description": "Sprint"
+    },
+ "server": {
+    "ip": "205.210.42.205",
+    "name": "cache1.dnsresolvers.com",
+    "description": "Private World Communications"
+    },
+ "server": {
+    "ip": "206.124.64.1",
+    "name": "bigguy.gte.net",
+    "description": "GTE Intelligent Network Services"
+    },
+ "server": {
+    "ip": "208.67.220.220",
+    "name": "resolver2.opendns.com",
+    "description": "OpenDNS, LLC"
+    },
+ "server": {
+    "ip": "208.67.222.222",
+    "name": "resolver1.opendns.com",
+    "description": "OpenDNS, LLC"
+    },
+ "server": {
+    "ip": "216.27.175.2",
+    "name": "dns.atl1.speakeasy.net",
+    "description": "Speakeasy"
+    },
+ "server": {
+    "ip": "216.185.111.10",
+    "name": "ns3.cache.dllstx2.theplanet.com",
+    "description": "The Planet"
+    },
+ "server": {
+    "ip": "216.231.41.2",
+    "name": "ns-legacy.speakeasy.net",
+    "description": "Speakeasy"
+    },
+ "server": {
+    "ip": "216.254.95.2",
+    "name": "dns.nyc1.speakeasy.net",
+    "description": "Speakeasy"
+    },
+ "server": {
+    "ip": "71.242.0.12",
+    "name": "",
+    "description": ""
+    },
+ "server": {
+    "ip": "71.252.0.12",
+    "name": "",
+    "description": ""
+    },
+ "server": {
+    "ip": "198.6.1.18",
+    "name": "",
+    "description": ""
+    },
+ "server": {
+    "ip": "198.6.1.19",
+    "name": "",
+    "description": ""
+    },
+ "server": {
+    "ip": "8.8.8.8",
+    "name": "google-public-dns-a.google.com",
+    "description": "Google Public DNS"
+    },
+ "server": {
+    "ip": "8.8.4.4",
+    "name": "google-public-dns-b.google.com",
+    "description": "Google Public DNS"
+    },
+ "server": {
+    "ip": "199.224.64.202"
+    "name": "resolve.dlls.pa"
+    "description": "Frontier Dallas, PA"
+    },
+ "server": {
+    "ip": "66.133.170.2"
+    "name": "resolve.roch.ny"
+    "description": "Frontier Rochester, NY"
+    },
+ "server": {
+    "ip": "66.133.150.12"
+    "name": "resolve.lkvl.mn"
+    "description": "Frontier Lakeville, MN"
+    },
+ "server": {
+    "ip": "66.133.189.215"
+    "name": "resolve.ekgv.ca"
+    "description": "Frontier Elk Grove, CA"
+    }
+}
